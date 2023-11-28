@@ -51,5 +51,7 @@ export default function sixBoxColorApp() {
         })
     
         counter = 0;
+        listOrder.length = 0;
+        console.log(listOrder)
     }
 }

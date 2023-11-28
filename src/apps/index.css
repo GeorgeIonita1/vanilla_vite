@@ -1,0 +1,16 @@
+.six_box_color_app {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.box {
+    width: 14rem;
+    aspect-ratio: 1;
+    background-color: red;
+    border-radius: 1rem;
+}
+
+.green {
+    background-color: green;
+}
